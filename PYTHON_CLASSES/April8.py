@@ -31,7 +31,7 @@ print("Repeat 10 times: ", length_of_characters* 10)
 print("The first character of the string is: ", name[0])
 
 
-'''
+
 Input_string = input("Enter anything : ")
 Number_of_character = len(Input_string)
 
@@ -60,30 +60,30 @@ if Input_string == Input_string[::-1]:
     print("The word is a palindrome.")
 else:
     print("The word is not a palindrome.")
-'''    
+    
 
 #check if a certain number is divisible by another number
 
-# numerator  = int(input("Enter a certain number : "))
+ numerator  = int(input("Enter a certain number : "))
 
-# denominator = int(input("Enter a second number: "))
+ denominator = int(input("Enter a second number: "))
 
-# correct = False if denominator <= 0 else True
+ correct = False if denominator <= 0 else True
 
-# if correct == True:
-#     print(numerator/denominator)
+ if correct == True:
+     print(numerator/denominator)
 
 
-#print(correct)
+print(correct)
 
-#print(5/0)
+print(5/0)
 
 # for i in range(1, 101):
     # print(i, 'Adeoye Adeyinka')
 
-#for i in range(1, 50):12
+for i in range(1, 50):12
 
-    # print(i*2, "Adeoye Adeyinka" )
+     print(i*2, "Adeoye Adeyinka" )
 
 
 
