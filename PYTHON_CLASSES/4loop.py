@@ -8,11 +8,11 @@ for character in user_input:
 #for loop2
 # Write a program that displays this kind of pattern with a for loop:
 
-# *
-# **
-# ***
-# ****
-# *****
-# for i in range(10):
-#     print("*" * i)
+ *
+ **
+ ***
+ ****
+ *****
+ for i in range(10):
+     print("*" * i)
 
